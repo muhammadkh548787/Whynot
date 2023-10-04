@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.all{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.img3, .img4, .img5{
+    height: 25px;
+}
+.img1, .img2{
+    height: 10px;
+}
+.img1, .img2{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.bor{
+    border-bottom: 1px solid grey;
+}
+.s1{
+    width: 600px;
+    height: 500px;
+    border: 1px solid white;
+    font-family: sans-serif;
+    
+}
+.s2{
+     width: 600px;
+    height: 500px;
+    border: 1px solid white;
+}
+.all1{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.p1, .p2{
+    font-size: 35px;
+    font-weight: 700;
+}
+.p3{
+    color: red;
+    font-size: 35px;
+    font-weight: 700;
+}
+.p4{
+    margin-top: 15px;
+}
+.but{
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    margin-top: 20px;
+}
+.ex{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.pan{
+    width: 500px;
+    margin-top: 50px;
+}
+.w1{
+    width: 1000px;
+    height: 450px;
+    border: 1px solid rgb(231, 229, 229);
+    margin-left: 100px;
+    background-color: rgb(231, 229, 229);
+}
+.w2{
+    width: 1000px;
+    height: 450px;
+    border: 1px solid rgb(231, 229, 229);
+    margin-right: 150px;
+    background-color: rgb(231, 229, 229);
+}
+.all2{
+    display: flex;
+    font-family: sans-serif;
+}
+.pro{
+    color: red;
+    font-size:30px;
+    font-weight: 700;
+}
+span{
+    color: black;
+}
+.max{
+    font-size:30px;
+    font-weight: 700;
+}
+.lor1, .lor2{
+    margin-top: 20px;
+}
+.dev{
+    margin-top: 50px;
+}
+.tex{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 100px;
+}
+.ph1{
+    width: 300px;
+    height: 350px;
+    border: 1px solid white;
+}
+
+.all3{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.hard{
+    width: 150px;
+}
+.slow{
+    color: red;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-top: 15px;
+}
+.min{
+    font-family: sans-serif;
+}
+.up{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.nu{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.ok{
+    width: 99.8%;
+    height: 60px;
+    background-color: red;
+    margin-top: 50px;
+}
+.ui{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
